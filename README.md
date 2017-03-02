@@ -8,9 +8,9 @@ Deze opdracht is gemaakt in opdracht van Egbert Hulsman voor het vak "Testen en 
 
 - Clone https://www.github.com/ThijsdenBraver/TDD.git
 
-- Ga naar de map TDD
+- Ga in de terminal doormiddel van cd naar de map TDD.
 
-- Typ "npm install"
+- Typ "npm install" in de terminal.
 
 
 ###In deze map zitten vervolgens 3 mappen.
@@ -21,7 +21,7 @@ Deze opdracht is gemaakt in opdracht van Egbert Hulsman voor het vak "Testen en 
 Momenteel controleert test/centimeterAndInch.js het app/centimeterAndInch.js bestand.
 Open deze bestanden en bestudeer hoe deze werken.
 
-- Met "npm test" worden alle testscripts in de test map uitgevoerd.
+- Met het "npm test" command in de terminal worden alle testscripts in de test map uitgevoerd.
 
 - Nu is het de bedoeling dat jullie hetzelfde gaan doen maar dan met kilometers en miles. 
   Waarbij kilometers kunnen worden omgezet in miles. En miles kunnen worden omgezet in kilometers.
